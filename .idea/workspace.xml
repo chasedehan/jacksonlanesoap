@@ -2,56 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc28aa39-01ee-4e65-96d7-4eceae03935f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-masonry-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-masonry-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog-single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/home-9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page-about-me.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page-about-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page-contact-us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/page-services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-style-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-wide-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-wide-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-2-wide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-metro-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-metro-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-style-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-style-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-style-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-style-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-style-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-wide-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-3-wide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-4-metro-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-4-metro-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-4-style-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-4-style-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-4-style-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/work-single-8.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_us.html" afterPath="$PROJECT_DIR$/about_us.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/causes.html" afterPath="$PROJECT_DIR$/causes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,24 +13,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
-              <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
+            <state relative-caret-position="102">
+              <caret line="272" column="56" lean-forward="false" selection-start-line="272" selection-start-column="56" selection-end-line="272" selection-end-column="56" />
               <folding>
                 <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#17790#17796#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#17742#17748#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3383">
@@ -164,8 +120,8 @@
         <option value="$PROJECT_DIR$/cause_1.html" />
         <option value="$PROJECT_DIR$/assets/css/piroll.css" />
         <option value="$PROJECT_DIR$/about_us.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/causes.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -319,7 +275,13 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17790#17796#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17742#17748#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,7 +351,13 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17790#17796#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17742#17748#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -550,21 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="343" column="21" lean-forward="false" selection-start-line="343" selection-start-column="21" selection-end-line="343" selection-end-column="21" />
-          <folding>
-            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#17790#17796#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3383">
@@ -572,6 +525,27 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="272" column="56" lean-forward="false" selection-start-line="272" selection-start-column="56" selection-end-line="272" selection-end-column="56" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#17742#17748#0" expanded="true" />
           </folding>
         </state>
       </provider>
