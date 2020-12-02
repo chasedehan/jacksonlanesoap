@@ -1,1 +1,10 @@
 /* PLACE YOUR CUSTOM STYLES IN THIS FILE */
+
+@media (max-width: 685px) {
+  .nk-nav-logo h2 {
+    font-size: 1.25rem;
+    margin-left: 0.5rem;
+    padding-top: 0.15rem;
+    margin-bottom: 0;
+  }
+}
