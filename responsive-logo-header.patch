@@ -1,0 +1,15 @@
+diff --git a/assets/css/custom.css b/assets/css/custom.css
+index e3a5891..4bd1954 100644
+--- a/assets/css/custom.css
++++ b/assets/css/custom.css
+@@ -1 +1,10 @@
+ /* PLACE YOUR CUSTOM STYLES IN THIS FILE */
++
++@media (max-width: 685px) {
++  .nk-nav-logo h2 {
++    font-size: 1.25rem;
++    margin-left: 0.5rem;
++    padding-top: 0.15rem;
++    margin-bottom: 0;
++  }
++}
